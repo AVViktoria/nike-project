@@ -1,6 +1,6 @@
 const Button = ({
   label,
-  iconUrl,
+  iconURL,
   backgroundColor,
   borderColor,
   textColor,
@@ -16,9 +16,9 @@ const Button = ({
       } rounded-full ${fullWidth && "w-full"}`}
     >
       {label}
-      {iconUrl && (
+      {iconURL && (
         <img
-          src={iconUrl}
+          src={iconURL}
           alt="arrow right icon"
           className="ml-2 rounded-full w-5 h-5"
         />
