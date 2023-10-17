@@ -8,9 +8,7 @@
 
 ## Summary
 
-World of Tailwind CSS, a Nike website.
-
-In this course, you'll:
+This website was created from a video tutorial and includes:
 
 - Make the most out of Tailwind CSS
 - Fully understand how Tailwind works behind-the-scenes
